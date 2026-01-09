@@ -4,3 +4,5 @@
 4. TAMPILAN FIREBASE(OTOMATIS) <img width="1512" height="982" alt="Screenshot 2026-01-09 at 18 39 26" src="https://github.com/user-attachments/assets/0a1b2f41-838f-4e7f-9cae-a8bbb47de33d" />
 5. TAMPILAN UPDATE DATA <img width="1512" height="982" alt="Screenshot 2026-01-09 at 19 41 55" src="https://github.com/user-attachments/assets/52ae9e84-6436-41c9-a7ad-8a59af619823" />
 6. TAMPILAN SETELAH DATA DIUPDATE <img width="1512" height="982" alt="Screenshot 2026-01-09 at 19 42 05" src="https://github.com/user-attachments/assets/66a294c4-be2b-4fbb-a0da-d15c9c1c3dd4" />
+7. VALIDASI SAAT INGIN HAPUS DATA <img width="1512" height="982" alt="Screenshot 2026-01-09 at 19 44 41" src="https://github.com/user-attachments/assets/b356f958-4030-4da3-9290-8209b3779be5" />
+8. TAMPILAN DATA TERHAPUS <img width="1512" height="982" alt="Screenshot 2026-01-09 at 19 46 04" src="https://github.com/user-attachments/assets/f695be27-97cd-4e14-8bca-b80cc74d0266" />
