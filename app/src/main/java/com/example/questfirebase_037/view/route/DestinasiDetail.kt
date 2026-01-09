@@ -2,7 +2,7 @@ package com.example.questfirebase_037.view.route
 
 import com.example.questfirebase_037.R
 
-object DestinasiDetail : DestinasiNavigasi {
+object DestinasiDetail: DestinasiNavigasi {
     override val route = "detail_siswa"
     override val titleRes = R.string.detail_siswa
     const val itemIdArg = "idSiswa"
